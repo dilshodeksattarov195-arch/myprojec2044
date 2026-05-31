@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvetch",
+        "uuid": 7730408,
+        "checksum": "iei1ti"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
